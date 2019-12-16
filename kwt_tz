@@ -1,0 +1,41 @@
+1.VK - Parse message,answer message
+2.electrotransport.ru - parse from topic
+3.Instgram - Parse Direct,Comments;Answer Direct,comments
+4.Youtube - Parse Comments
+5.Facebook - Parse Messages,Comments
+6.Otzovik - Parse Reviews
+7.Yandex - Parse Reviews
+8.Google - Parse Reviews
+9.Ok.ru - Parse Messages,Reviews
+
+source environments/comment_main/bin/activate
+Мой помощник, [18.04.19 14:09]
+Разделы
+1.Аварийные/Справочные/Экстренные службы (http://t.me/YellowPagesRus_Bot?start=sc=1)
+2.Автосервис/Автотовары (http://t.me/YellowPagesRus_Bot?start=sc=2)
+3.Досуг/Развлечения/Питание (http://t.me/YellowPagesRus_Bot?start=sc=3)
+4.Интернет/Связь/ИТ (http://t.me/YellowPagesRus_Bot?start=sc=4)
+5.Коммунальные/Бытовые/Ритуальные услуги (http://t.me/YellowPagesRus_Bot?start=sc=5)
+6.Компьютеры/Офисная техника/Бытовая техника (http://t.me/YellowPagesRus_Bot?start=sc=6)
+7.Культура/Искусство/Религия (http://t.me/YellowPagesRus_Bot?start=sc=7)
+8.Мебель/Интерьер/Фурнитура (http://t.me/YellowPagesRus_Bot?start=sc=8)
+9.Медицина/Здоровье/Красота (http://t.me/YellowPagesRus_Bot?start=sc=9)
+10.Металлы/Топливо/Химия (http://t.me/YellowPagesRus_Bot?start=sc=10)
+11.Недвижимость (http://t.me/YellowPagesRus_Bot?start=sc=11)
+12.Оборудование/Инструмент (http://t.me/YellowPagesRus_Bot?start=sc=12)
+13.Образование/Работа/Карьера (http://t.me/YellowPagesRus_Bot?start=sc=13)
+14.Одежда/Обувь/Текстиль (http://t.me/YellowPagesRus_Bot?start=sc=14)
+15.Охрана/Безопасность (http://t.me/YellowPagesRus_Bot?start=sc=15)
+16.Продукты питания/Напитки (http://t.me/YellowPagesRus_Bot?start=sc=16)
+17.Реклама/Полиграфия/Медиа (http://t.me/YellowPagesRus_Bot?start=sc=17)
+18.Спорт/Отдых/Туризм (http://t.me/YellowPagesRus_Bot?start=sc=18)
+19.Строительство/Строительные и отделочные материалы/Ремонт (http://t.me/YellowPagesRus_Bot?start=sc=19)
+20.Сельхозпродукция\Животноводство\Агропром (http://t.me/YellowPagesRus_Bot?start=sc=20)
+21.Текстиль/Предметы интерьеры (http://t.me/YellowPagesRus_Bot?start=sc=21)
+22.Товары для животных/Ветеринария (http://t.me/YellowPagesRus_Bot?start=sc=22)
+23.Торговые комплексы/Спецмагазины (http://t.me/YellowPagesRus_Bot?start=sc=23)
+24.Транспорт/Грузоперевозки (http://t.me/YellowPagesRus_Bot?start=sc=24)
+25.Упаковка/Канцелярия (http://t.me/YellowPagesRus_Bot?start=sc=25)
+26.Хозтовары/Для дома и дачи (http://t.me/YellowPagesRus_Bot?start=sc=26)
+27.Электроника/Электротехника (http://t.me/YellowPagesRus_Bot?start=sc=27)
+28.Юридические/Финансовые/Бизнес услуги (http://t.me/YellowPagesRus_Bot?start=sc=28)
