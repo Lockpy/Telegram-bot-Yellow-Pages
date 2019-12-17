@@ -1,4 +1,4 @@
-# Telegram-bot-Yellow-Pages
+# Yellow Pages
 
 Yellow Pages directory with Telegram chat bot administration interface.
 
